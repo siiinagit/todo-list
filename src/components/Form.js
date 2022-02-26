@@ -46,7 +46,7 @@ const Form = ({ input, setInput, todos, setTodos, editTodo, setEditTodo }) => {
     <form onSubmit={onFormSubmit} style={{ backgroundColor: "#fffaed" }}>
       <TextField
         type="text"
-        label="enter the todo..."
+        label="enter the todo... list"
         InputLabelProps={{ required: false }}
         variant="filled"
         value={input}
