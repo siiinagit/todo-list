@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.29812ef8.css","mappings":"AAAA,KACI,wBACJ,CAEA,UACI,aAAyB,CACzB,wDAAsD,CAAtD,gDACJ","sources":["style.css"],"sourcesContent":["body{\r\n    background-color: rgb(138, 137, 132);\r\n}\r\n\r\n.complete {\r\n    color: rgb(219, 229, 240);\r\n    text-decoration: underline rgba(14, 17, 13, 0.35) 3px ;\r\n}\r\n"],"names":[],"sourceRoot":""}
