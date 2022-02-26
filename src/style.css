@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(138, 137, 132);
+}
+
+.complete {
+    color: rgb(219, 229, 240);
+    text-decoration: underline rgba(14, 17, 13, 0.35) 3px ;
+}
