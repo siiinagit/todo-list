@@ -53,7 +53,6 @@ const Form = ({ input, setInput, todos, setTodos, editTodo, setEditTodo }) => {
         placeholder="enter the todo..."
         required
         onChange={onInputChange}
-        sx={{width: '400px'}}
         color='primary'
       />
       <Button variant="text" type="submit">
